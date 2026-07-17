@@ -207,7 +207,7 @@ export default function Hero() {
                   <img
                     src="/profile.jpg?v=2"
                     alt="Guhan S Professional Portrait"
-                    className="absolute inset-0 w-full h-full object-cover object-[center_18%] scale-[1.25] transition-transform duration-700 hover:scale-[1.32]"
+                    className="absolute inset-0 w-full h-full object-cover object-center scale-[1.25] transition-transform duration-700 hover:scale-[1.32]"
                   />
                   {/* Subtle vignette lighting layer */}
                   <div className="absolute inset-0 bg-gradient-to-t from-bg-dark/40 via-transparent to-transparent opacity-50 pointer-events-none" />

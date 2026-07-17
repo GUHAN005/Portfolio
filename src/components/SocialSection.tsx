@@ -292,7 +292,7 @@ export default function SocialSection() {
                       alt="Guhan S Profile Photo"
                       fill
                       sizes="80px"
-                      className="object-cover"
+                      className="object-cover object-center"
                     />
                   </div>
                 </div>
