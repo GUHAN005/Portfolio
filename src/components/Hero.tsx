@@ -205,9 +205,9 @@ export default function Hero() {
               <div className="relative w-full h-full rounded-full p-[3px] bg-white/[0.08] backdrop-blur-2xl shadow-[0_0_50px_rgba(6,182,212,0.2)] border border-white/10 overflow-hidden flex items-center justify-center">
                 <div className="relative w-full h-full rounded-full bg-[#050816] overflow-hidden">
                   <img
-                    src="/profile.jpg?v=2"
+                    src="/profile.jpg?v=3"
                     alt="Guhan S Professional Portrait"
-                    className="absolute inset-0 w-full h-full object-cover object-center scale-[1.25] transition-transform duration-700 hover:scale-[1.32]"
+                    className="absolute inset-0 w-full h-full object-cover object-[center_30%] scale-[1.25] transition-transform duration-700 hover:scale-[1.32]"
                   />
                   {/* Subtle vignette lighting layer */}
                   <div className="absolute inset-0 bg-gradient-to-t from-bg-dark/40 via-transparent to-transparent opacity-50 pointer-events-none" />
